@@ -3,6 +3,8 @@
 
 [Introduction](./introduction.md)
 
+[About BBOS10](./about_blackberry.md)
+
 # Tutorials
 
 - [Debloating](./debloat.md)
